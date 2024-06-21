@@ -3,6 +3,8 @@ package sample;
 import java.util.Scanner;
 
 // added new comment by vinay -1
+// added new comment again for branching
+
 public class animal {
 	public static void main(String[] args) {
 		Scanner scan =new Scanner(System.in);
