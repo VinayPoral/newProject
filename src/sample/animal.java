@@ -5,6 +5,7 @@ import java.util.Scanner;
 // added new comment by vinay -1
 // added new comment again for branching
 // added commit for merging
+// i wanted see change after merge
 public class animal {
 	public static void main(String[] args) {
 		Scanner scan =new Scanner(System.in);
