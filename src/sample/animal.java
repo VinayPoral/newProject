@@ -7,6 +7,7 @@ import java.util.Scanner;
 // added commit for merging
 // i wanted see change after merge
 // hello
+// Iam editing this file for stashing
 public class animal {
 	public static void main(String[] args) {
 		Scanner scan =new Scanner(System.in);
